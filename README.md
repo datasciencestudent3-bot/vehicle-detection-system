@@ -62,7 +62,6 @@ The system can detect the following vehicle types:
 ```text
 Vehicle-Detection-System/
 │── Karachi_Revises_Speed_Limit_on_Major_Road[1].jfif
-│── PROJECT_REPORT_FINAL[1].pdf
 │── README.md
 │── WhatsApp_Image_2026-05-10_at_5.13.19_PM[1].jpeg
 │── untitled2_(1)[1].py
